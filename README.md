@@ -1,3 +1,3 @@
 # Water_potability
-Water Potability prediction
-HackerEarth Fractal data science challenge
+Water Potability prediction,
+## HackerEarth Fractal data science challenge
