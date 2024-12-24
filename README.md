@@ -10,7 +10,7 @@ The Water Potability Analysis project is designed to determine whether water is 
 
 2. 📈 **Model Training and Evaluation**  
    - ⚙️ Implement machine learning algorithms for classification tasks.  
-   - 📉 Evaluate model performance with accuracy, precision, recall, and F1-score metrics.  
+   - 📉 Evaluate model performance with MSE, RMSE, r2_score , median_absolute_error 
 
 3. 📖 **Visualization Tools**  
    - 📊 Generate data distribution graphs and correlation heatmaps.  
