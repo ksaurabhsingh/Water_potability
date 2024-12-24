@@ -9,7 +9,7 @@ The Water Potability Analysis project is designed to determine whether water is 
    - 🔍 Handle missing data through imputation and normalization techniques.  
 
 2. 📈 **Model Training and Evaluation**  
-   - ⚙️ Implement machine learning algorithms for classification tasks.  
+   - ⚙️ Implement machine learning algorithms for regression tasks.  
    - 📉 Evaluate model performance with MSE, RMSE, r2_score , median_absolute_error 
 
 3. 📖 **Visualization Tools**  
@@ -31,7 +31,7 @@ The Water Potability Analysis project is designed to determine whether water is 
  
 
 ## 📋 Output Format
-- **Predictions**: ✅ Safe or 🚫 Unsafe classification for water samples.  
+- **Predictions**: ✅ Safe or 🚫 Unsafe classification for water samples from certain range of potability.  
 - **Visualizations**: 📈 Graphs and heatmaps for data insights.  
 
 ## 🚧 Future Enhancements
